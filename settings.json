@@ -1,0 +1,34 @@
+{
+    "breadcrumbs.enabled": false,
+
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ -std=c++17 $fileName && a.exe && del a.exe",
+    },
+    
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.fontLigatures": false,
+
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+
+    "extensions.ignoreRecommendations": true,
+
+    "liveServer.settings.donotShowInfoMsg": true,
+
+    "security.workspace.trust.untrustedFiles": "open",
+
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "terminal.integrated.shellIntegration.enabled": false,
+
+    "update.showReleaseNotes": false,
+    
+    "window.title": "${folderName}",
+    "window.commandCenter": false,
+
+    "workbench.startupEditor": "none",
+    "workbench.layoutControl.enabled": false,
+}
