@@ -10,6 +10,8 @@
     "editor.minimap.enabled": false,
     "editor.stickyScroll.enabled": false,
     "editor.fontLigatures": false,
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Source Code Pro",
 
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
@@ -20,15 +22,18 @@
 
     "security.workspace.trust.untrustedFiles": "open",
 
+    "terminal.integrated.fontFamily": "Source Code Pro",
+    "terminal.integrated.fontSize": 15,
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
     "terminal.integrated.shellIntegration.enabled": false,
 
     "update.showReleaseNotes": false,
-    
+
     "window.title": "${folderName}",
     "window.commandCenter": false,
 
     "workbench.startupEditor": "none",
     "workbench.layoutControl.enabled": false,
+    "workbench.colorTheme": "Predawn",
 }
